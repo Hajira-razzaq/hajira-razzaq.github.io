@@ -11,7 +11,6 @@ const HomePage = () => {
   const myAboutRef = useRef(null);
   const mySkillRef = useRef(null);
   const myProjectsRef = useRef(null);
-
   const scrollToSection = (sectionRef) => {
     sectionRef.current.scrollIntoView({ behavior: "smooth" });
   };
