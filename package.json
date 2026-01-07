@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://hajira-razzaq.github.io",
+  "homepage": "https://hajira-razzaq.github.io/frontend-portfolio",
   "description": "Portfolio website for Frontend ReactJS Developer showcasing skills, projects, and expertise.",
   "scripts": {
     "dev": "vite",
