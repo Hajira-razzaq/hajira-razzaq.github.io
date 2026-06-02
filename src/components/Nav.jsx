@@ -57,7 +57,7 @@ const Nav = ({
                         <a
                           target="_blank"
                           className="smoth-animation"
-                          href="https://drive.google.com/file/d/1Mzw_mjLmUsm2D653pENlMbAbNWZYpCjW/view?usp=drive_link"
+                          href="https://drive.google.com/file/d/15cIkYzz6eXToMixcEsOUR8O_CYmNKg29/view"
                         >
                           Resume
                         </a>
@@ -187,7 +187,7 @@ const Nav = ({
               <li>
                 <a
                   className="smoth-animation"
-                  href="https://drive.google.com/file/d/1Mzw_mjLmUsm2D653pENlMbAbNWZYpCjW/view?usp=drive_link"
+                  href="https://drive.google.com/file/d/15cIkYzz6eXToMixcEsOUR8O_CYmNKg29/view"
                   target="_blank"
                 >
                   Resume
